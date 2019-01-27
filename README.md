@@ -9,15 +9,15 @@ Vehler ia a project that I developed when I was in my first year of University. 
 ## Modules:
 
 There are mainly 5 modules in this software.
-
+#### Vehicle Management
 Admin can add new vehicles, and manage them.
-
+#### Driver Management
 A new driver can sign up, pick up the kind of vehicle he drives and he'll be alloted a vehicle according to his selection. He can then turn his status as online and start picking rides.
-
+#### Passenger Management
 New passengers can sign up and log in into the system to book rides. They can book a ride, check their current rides and also past rides.
-
+#### Rides Management
 Admin can manage the rides going on. An admin can even ban a driver.
-
+#### Booking Ride
 Ride booking is done by the passengers where they can choose from 3 types of vehicles i.e. Bus, Rickshaw and Car. They have to select the routes and begin the travelling.
 
 ## Screenshots
