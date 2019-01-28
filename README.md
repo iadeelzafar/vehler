@@ -20,8 +20,6 @@ Admin can manage the rides going on. An admin can even ban a driver.
 #### Booking Ride
 Ride booking is done by the passengers where they can choose from 3 types of vehicles i.e. Bus, Rickshaw and Car. They have to select the routes and begin the travelling.
 
-## Screenshots
-
 ## How to set up Project
 
 It's very simple. This project is developed using NetBeans. Don't forget to import the libraries that are in the libraries folder after opening NetBeans.
@@ -29,4 +27,22 @@ It's very simple. This project is developed using NetBeans. Don't forget to impo
 Admin's username: adeel619
 
 Admin's password : 9901
+
+## Screenshots
+<img src="vehler_screenshots/1.png" />
+<img src="vehler_screenshots/15.png" />
+<img src="vehler_screenshots/3.png" />
+<img src="vehler_screenshots/4.png" />
+<img src="vehler_screenshots/6.png" />
+<img src="vehler_screenshots/16.png" />
+<img src="vehler_screenshots/24.png" />
+<img src="vehler_screenshots/31.png" />
+<img src="vehler_screenshots/40.png" />
+<img src="vehler_screenshots/42.png" />
+<img src="vehler_screenshots/44.png" />
+
+
+
+
+
 
