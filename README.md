@@ -22,11 +22,12 @@ Ride booking is done by the passengers where they can choose from 3 types of veh
 
 ## How to set up Project
 
-It's very simple. This project is developed using NetBeans. Don't forget to import the libraries that are in the libraries folder after opening NetBeans.
-
-Admin's username: adeel619
-
-Admin's password : 9901
+It's very simple. This project is developed using NetBeans. 
+* Install Netbeans
+* Import this project 
+* Add the libraries that are given in the Libraries Folder.
+* Admin's username: adeel619
+  Admin's password : 9901
 
 ## Screenshots
 <img src="vehler_screenshots/1.png" />
