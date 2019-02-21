@@ -5,7 +5,7 @@ The aim of this project was to develop an offline application that could manage 
 
 ## Background
 
-Vehler ia a project that I developed when I was in my first year of University. This project is really close to my heart because I developed it after the hardwork of one month. For someone who had no experience in programming 6 months before this project, I believe it was a great achievement for me at that time. As I made it in my 2nd semester when I had started programming just 6 months ago. I still remember those sleepless nights. I thought it'd be cool to put it on GitHub. Maybe a student could benefit from it.
+Vehler ia a project that I developed when I was in my first year of University. This project is really close to my heart because I developed it after the hardwork of one month. As someone who had no experience in programming 6 months before this project, I believe it was a great achievement for me at that time. As I made it in my 2nd semester when I had started programming just 6 months ago. I still remember those sleepless nights. I thought it'd be cool to put it on GitHub. Maybe a student could benefit from it.
 ## Modules:
 
 There are mainly 5 modules in this software.
