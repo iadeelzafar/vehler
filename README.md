@@ -26,8 +26,8 @@ It's very simple. This project is developed using NetBeans.
 * Install Netbeans
 * Import this project 
 * Add the libraries that are given in the Libraries Folder.
-* Admin's username: adeel619
-  Admin's password : 9901
+* Admin account username: adeel619
+  Admin account password : 9901
 
 ## Screenshots
 <img src="vehler_screenshots/1.png" />
