@@ -1,5 +1,5 @@
 # Vehler
-Vehler is a Vehicle Management System built in Java using Microsoft Access as the database and SQL for queries.
+Vehler is a Vehicle Management System built in Java using Microsoft Access as the backend database and SQL for queries.
 
 The aim of this project was to develop an offline application that could manage vehicles, drivers as well as the passengers could book the rides.
 
