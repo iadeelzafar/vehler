@@ -14,7 +14,7 @@ Admin can add new vehicles, and manage them.
 #### Driver Management
 A new driver can sign up, pick up the kind of vehicle he drives and he'll be alloted a vehicle according to his selection. He can then turn his status as online and start picking rides.
 #### Passenger Management
-New passengers can sign up and log in into the system to book rides. They can book a ride, check their current rides and also past rides.
+New passengers can sign up and login into the system to book rides. They can book a ride, check their current rides and also past rides.
 #### Rides Management
 Admin can manage the rides going on. An admin can even ban a driver.
 #### Booking Ride
